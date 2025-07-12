@@ -9,9 +9,8 @@
 ## Setup
 
 + Clone the repo in your local development environment.
-+ Make sure `node`, `npm`, and `grunt` are installed globally
-+ Run `npm install` and
-+ `grunt` inside the project root.
++ Make sure `node` and `npm` are installed globally.
++ Run `npm install` inside the project root.
 
 ## 👋
 
